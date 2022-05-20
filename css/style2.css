@@ -28,84 +28,84 @@
 }
 @keyframes text-move {
     5% {
-        width: calc(100% - (14px*1));
-        left: calc(14px*1);
+        width: calc(100% - (15.15px*1));
+        left: calc(15.15px*1);
     }
     10% {
-        width: calc(100% - (14px*2));
-        left: calc(14px*2);
+        width: calc(100% - (15.15px*2));
+        left: calc(15.15px*2);
     }
     15% {
-        width: calc(100% - (14px*3));
-        left: calc(14px*3);
+        width: calc(100% - (15.15px*3));
+        left: calc(15.15px*3);
     }
     20% {
-        width: calc(100% - (14px*4));
-        left: calc(14px*4);
+        width: calc(100% - (15.15px*4));
+        left: calc(15.15px*4);
     }
     25% {
-        width: calc(100% - (14px*5));
-        left: calc(14px*5);
+        width: calc(100% - (15.15px*5));
+        left: calc(15.15px*5);
     }
     30% {
-        width: calc(100% - (14px*6));
-        left: calc(14px*6);
+        width: calc(100% - (15.15px*6));
+        left: calc(15.15px*6);
     }
     35% {
-        width: calc(100% - (14px*7));
-        left: calc(14px*7);
+        width: calc(100% - (15.15px*7));
+        left: calc(15.15px*7);
     }
     40% {
-        width: calc(100% - (14px*8));
-        left: calc(14px*8);
+        width: calc(100% - (15.15px*8));
+        left: calc(15.15px*8);
     }
     45% {
-        width: calc(100% - (14px*9));
-        left: calc(14px*9);
+        width: calc(100% - (15.15px*9));
+        left: calc(15.15px*9);
     }
     50% {
-        width: calc(100% - (14px*10));
-        left: calc(14px*10);
+        width: calc(100% - (15.15px*10));
+        left: calc(15.15px*10);
     }
     55% {
-        width: calc(100% - (14px*11));
-        left: calc(14px*11);
+        width: calc(100% - (15.15px*11));
+        left: calc(15.15px*11);
     }
     60% {
-        width: calc(100% - (14px*12));
-        left: calc(14px*12);
+        width: calc(100% - (15.15px*12));
+        left: calc(15.15px*12);
     }
     65% {
-        width: calc(100% - (14px*13));
-        left: calc(14px*13);
+        width: calc(100% - (15.15px*13));
+        left: calc(15.15px*13);
     }
     70% {
-        width: calc(100% - (14px*14));
-        left: calc(14px*14);
+        width: calc(100% - (15.15px*14));
+        left: calc(15.15px*14);
     }
     75% {
-        width: calc(100% - (14px*15));
-        left: calc(14px*15);
+        width: calc(100% - (15.15px*15));
+        left: calc(15.15px*15);
     }
     80% {
-        width: calc(100% - (14px*16));
-        left: calc(14px*16);
+        width: calc(100% - (15.15px*16));
+        left: calc(15.15px*16);
     }
     85% {
-        width: calc(100% - (14px*17));
-        left: calc(14px*17);
+        width: calc(100% - (15.15px*17));
+        left: calc(15.15px*17);
     }
     90% {
-        width: calc(100% - (14px*18));
-        left: calc(14px*18);
+        width: calc(100% - (15.15px*18));
+        left: calc(15.15px*18);
     }
     95% {
-        width: calc(100% - (14px*19));
-        left: calc(14px*19);
+        width: calc(100% - (15.15px*19));
+        left: calc(15.15px*19);
     }
     100% {
-        width: calc(100% - (14px*20));
-        left: calc(14px*20);
+        width: calc(100% - (15.15px*20));
+        left: calc(15.15px*20);
     }
 }
 @keyframes text-blink {
@@ -126,9 +126,9 @@
     display: block;
     position: absolute;
     content: '';
-    width: 14px;
+    width: 15.15px;
     height: 25px;
-    left: 224px;
+    left: 303px;
     border-left: 0px;
     background: #eff5ed;
     z-index: 1;
